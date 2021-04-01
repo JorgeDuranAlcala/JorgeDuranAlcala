@@ -8,7 +8,9 @@ I am a Front End developer with some experience building websites and web applic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDuranAlcala)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeDuranAlcala)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/JorgeDuranAlcala/FB-clone">
+ <img align="center src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeDuranAlcala&repo=FB-clone)](https://github.com/anuraghazra/github-readme-stats)"/>
+<a>
 
 <!--
 **JorgeDuranAlcala/JorgeDuranAlcala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
