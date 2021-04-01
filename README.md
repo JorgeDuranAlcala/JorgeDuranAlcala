@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a Front End developer with some experience building websites and web applications. I specialize in JavaScript and have professional experience working with React. I also can be a full-stack using Nodejs and MongoDB basically MERN.
+
+- 🌱 I’m currently learning Redux, Next.js, Postgresql
+
+- 📫 How to reach me:https://portfolio-3g11gvtol-jorgeduranalcala.vercel.app
+
+
 <!--
 **JorgeDuranAlcala/JorgeDuranAlcala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
