@@ -6,13 +6,13 @@ I am a Front End developer with some experience building websites and web applic
 
 - 📫 How to reach me:https://portfolio-3g11gvtol-jorgeduranalcala.vercel.app
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDuranAlcala&theme=darkula)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeDuranAlcala&theme=darkula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeDuranAlcala&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeDuranAlcala&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/JorgeDuranAlcala/FB-clone">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDuranAlcala&repo=FB-clone&theme=darkula" />
-<a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDuranAlcala&repo=FB-clone&theme=dark" />
+<a
 <a href="https://github.com/JorgeDuranAlcala/amazon-clone">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDuranAlcala&repo=amazon-clone&theme=darkula" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDuranAlcala&repo=amazon-clone&theme=dark" />
 <a>
 
 <!--
