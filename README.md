@@ -10,10 +10,10 @@ I am a Front End developer with some experience building websites and web applic
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeDuranAlcala&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/JorgeDuranAlcala/FB-clone">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDuranAlcala&repo=FB-clone&theme=dark" />
-<a
+</a>
 <a href="https://github.com/JorgeDuranAlcala/amazon-clone">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeDuranAlcala&repo=amazon-clone&theme=dark" />
-<a>
+</a>
 
 <!--
 **JorgeDuranAlcala/JorgeDuranAlcala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
